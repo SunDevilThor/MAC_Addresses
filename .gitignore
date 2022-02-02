@@ -1,3 +1,7 @@
+# Files
+testfile.txt
+ifconfig.rtf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
